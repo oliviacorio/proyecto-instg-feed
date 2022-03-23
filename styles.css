@@ -1,0 +1,44 @@
+body{
+    background:#e6e3e3;
+    margin:0;
+}
+header{
+    background: white;
+    padding: 10px;
+
+}
+header h1{
+    margin:0;
+}
+div.titulo{
+    margin:auto;
+    width: 500px;
+}
+div.post{
+    background: white;
+    margin:auto;
+    width: 500px;
+    height: 450px;
+}
+div.post img{
+    width: 100%;
+    margin-top:5px ;
+    height: 340px;
+    
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:40px;
+    padding: 5px;
+    height: 30px;
+}
+span{
+    color: grey;
+}
+.comentario{
+    padding:5px;
+    padding-left: 20px;
+    margin: none;
+}
